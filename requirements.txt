@@ -1,0 +1,3 @@
+langflow
+requests
+nest_asyncio
