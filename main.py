@@ -28,7 +28,10 @@ def run_flow(message: str, endpoint: str = FLOW_ID, tweaks: dict = None) -> dict
 def main():
     st.title("Social Media Engagement Analyzer")
     st.write("Enter your query to analyze social media engagement data.")
-
+    st.markdown(
+        """
+    **Approach**: This app uses **API endpoints** to interact with Langflow and DataStax Astra DB."""
+    )
     st.markdown(
     """
     **Post Types:**

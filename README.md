@@ -7,6 +7,11 @@ The project consists of two main files, `main.py` and `main2.py`, which achieve 
 
 ---
 
+## Deployed Application
+You can access the deployed apps here:
+- **API Endpoint Approach**: [Social Media Analysys 1](https://socialmediaanalysis1.streamlit.app/)
+- **JSON-Based Flow Execution**: [Social Media Analysys 2](https://socialmediaanalysis2.streamlit.app/)
+
 ## Key Features
 - **API Integration**: `main.py` interacts with Langflow and DataStax Astra DB through API endpoints.
 - **JSON-Based Flow Execution**: `main2.py` uses a JSON-based flow with predefined tweaks to customize the workflow.
@@ -29,6 +34,8 @@ The project consists of two main files, `main.py` and `main2.py`, which achieve 
   - **Tweaks Configuration**: The file defines a `TWEAKS` dictionary that customizes various components of the Langflow workflow, such as the input prompt, data parsing, and output formatting.
   - **Google Generative AI Integration**: The file integrates with **Google's Gemini API** for generating insights using the `gemini-1.5-pro` model.
   - **Streamlit Interface**: Similar to `main.py`, this file provides interface for query input and result display.
+
+
 
 ---
 

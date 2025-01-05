@@ -7,6 +7,10 @@ st.title("Social Media Engagement Analyzer")
 st.write("Enter your query to analyze social media engagement data.")
 st.markdown(
     """
+**Approach**: This app uses a **JSON-based flow execution** with predefined tweaks to customize the Langflow workflow."""
+)
+st.markdown(
+    """
     **Post Types:**
     - reel
     - podcast
