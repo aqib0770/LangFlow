@@ -7,6 +7,10 @@ The project consists of two main files, `main.py` and `main2.py`, which achieve 
 
 ---
 
+Explanation of the workflow: [Video](https://youtu.be/wwThnIom4zY)
+
+---
+
 ## Deployed Application
 You can access the deployed apps here:
 - **API Endpoint Approach**: [Social Media Analysys 1](https://socialmediaanalysis1.streamlit.app/)
